@@ -13,13 +13,22 @@ change?
 
 staging area will commit changes only added files.
 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+While developing changes which are trail and error basis and implementing to show to team how the functionality will work.
+
 How do the diagrams help you visualize the branch structure?
+
+This really help to understnd GIT more detailed way. Thank you.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+it creates final changes in one place say master.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+it is better to fix conflicts manually before merging fully
